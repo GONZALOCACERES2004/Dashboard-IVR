@@ -22,4 +22,4 @@ Este dashboard que estás viendo es el producto final de nuestro proceso de aná
 
 ¡Explora, analiza y descubre el poder de tus datos IVR! da click en el siguiente enlace:
 
-[Ver Cuadro de Mando](https://gonzalocaceres2004.github.io/Dashboard-IVR/Dashboard_Ivr_Summary.html)
+[Dashboard IVR_summary](https://gonzalocaceres2004.github.io/Dashboard-IVR/Dashboard_Ivr_Summary.html)
