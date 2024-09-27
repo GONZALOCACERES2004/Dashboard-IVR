@@ -20,6 +20,6 @@ Este dashboard que estás viendo es el producto final de nuestro proceso de aná
 - **Filtros Dinámicos**: Explora los datos desde múltiples ángulos 
 - **Visualizaciones Interactivas**: Descubre tendencias y patrones clave
 
-¡Explora, analiza y descubre el poder de tus datos IVR!
+¡Explora, analiza y descubre el poder de tus datos IVR! da click en el siguiente enlace:
 
 [Ver Cuadro de Mando](https://gonzalocaceres2004.github.io/Dashboard-IVR/Dashboard_Ivr_Summary.html)
