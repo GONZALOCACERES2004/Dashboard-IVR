@@ -13,7 +13,7 @@
 3. **Optimización para Visualización**
  - Generamos una tabla resumen potente y eficiente 
 - Preparamos los datos para una visualización dinámica e interactiva
-- 
+ 
 ### 📊 Resultado: Un Dashboard Interactivo y Potente 
 
 Este dashboard que estás viendo es el producto final de nuestro proceso de análisis de datos. Aprovecha al máximo sus características: 
